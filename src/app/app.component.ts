@@ -1,3 +1,7 @@
+/*
+unable to install in local computer:
+ENOENT: no such file or directory, stat '/home/nikesh/learn/angular/angular-u78ri2-cu33kv/tsconfig.app.json'
+*/
 import { Component } from '@angular/core';
 
 @Component({
